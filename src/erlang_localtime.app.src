@@ -2,7 +2,7 @@
  [
   {description, ""},
   {applications, [kernel, stdlib]},
-  {vsn, "1.0"},
+  {vsn, "1.0.0"},
   {registered, []},
   {env, []},
   {applications, []}
